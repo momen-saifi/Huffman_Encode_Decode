@@ -75,8 +75,6 @@ To use this Huffman Compression program, follow these steps:
 ```bash
 gcc huffman.c -o huffman
 Execute the compiled program.
-bash
-Copy code
 ./huffman
 Choose one of the following options:
 
@@ -102,7 +100,7 @@ Installation
 Include any installation instructions or dependencies that need to be installed for your project.
 
 Examples
-Provide examples of how to use the program, including sample command-line usage and expected output.
+
 
 Contributing
 If you'd like to contribute to this project, please read our contributing guidelines for more information.
