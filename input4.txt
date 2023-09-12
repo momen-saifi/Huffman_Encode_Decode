@@ -1,0 +1,3 @@
+Introduction
+
+Data compression is an essential aspect of modern computing, allowing us to store and transmit data more efficiently. Huffman coding is a widely used algorithm in the field of data compression, enabling the reduction of file sizes without losing information. In this article, we'll delve into the mechanics of Huffman encoding, exploring its principles, advantages, and applications. Additionally, we'll address how to handle special characters, ensuring that the encoding process works effectively for a wide range of inputs.
