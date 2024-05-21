@@ -82,8 +82,8 @@ Encode File: Compress a file using Huffman encoding.
 Decode File: Decompress a Huffman-encoded file.
 Exit: Terminate the program.
 Follow the on-screen prompts to perform the selected operation.
-
-File Formats
+```
+## File Formats
 This project uses the following file formats:
 
 Input File: The file to be compressed or decompressed.
@@ -96,11 +96,11 @@ Compressed File (.huffman): Stores the Huffman-encoded data along with a header 
 
 Note: The frequency table file and the compressed file should have the same base name, e.g., example.huffman and example.table.
 
-Installation
+## Installation
 Include any installation instructions or dependencies that need to be installed for your project.
 
 
-## **Examples**
+## Examples
 
 ### Snapshot 1
 ![Snapshot 1](img/Screenshot 1.png)
@@ -119,8 +119,8 @@ Include any installation instructions or dependencies that need to be installed 
 
 
 
-Contributing
+## Contributing
 If you'd like to contribute to this project, please read our contributing guidelines for more information.
 
-License
+## License
 This project is licensed under the MIT License.
