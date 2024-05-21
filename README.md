@@ -103,19 +103,19 @@ Include any installation instructions or dependencies that need to be installed 
 ## Examples
 
 ### Snapshot 1
-![Snapshot 1](img/Screenshot 1.png)
+[![Snapshot 1](img/Screenshot 1.png)](img/Screenshot 1.png)
 
 ### Snapshot 2
-![Snapshot 2](img/Screenshot 2.png)
+[![Snapshot 2](img/Screenshot 2.png)](img/Screenshot 2.png)
 
 ### Snapshot 3
-![Snapshot 3](img/Screenshot 3.png)
+[![Snapshot 3](img/Screenshot 3.png)](img/Screenshot 3.png)
 
 ### Snapshot 4
-![Snapshot 4](img/Screenshot 4.png)
+[![Snapshot 4](img/Screenshot 4.png)](img/Screenshot 4.png)
 
 ### Snapshot 5
-![Snapshot 5](img/Screenshot 5.png)
+[![Snapshot 5](img/Screenshot 5.png)](img/Screenshot 5.png)
 
 
 
