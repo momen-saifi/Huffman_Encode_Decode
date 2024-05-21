@@ -100,12 +100,10 @@ Installation
 Include any installation instructions or dependencies that need to be installed for your project.
 
 
-## Examples
+## **Examples**
 
-## Project Screenshots
-
-### Snapshot 2
-![Snapshot 2](img/Screenshot 1.png)
+### Snapshot 1
+![Snapshot 1](img/Screenshot 1.png)
 
 ### Snapshot 2
 ![Snapshot 2](img/Screenshot 2.png)
