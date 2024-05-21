@@ -99,7 +99,26 @@ Note: The frequency table file and the compressed file should have the same base
 Installation
 Include any installation instructions or dependencies that need to be installed for your project.
 
-Examples
+
+## Examples
+
+## Project Screenshots
+
+### Snapshot 2
+![Snapshot 2](img/Screenshot 1.png)
+
+### Snapshot 2
+![Snapshot 2](img/Screenshot 2.png)
+
+### Snapshot 3
+![Snapshot 3](img/Screenshot 3.png)
+
+### Snapshot 4
+![Snapshot 4](img/Screenshot 4.png)
+
+### Snapshot 5
+![Snapshot 5](img/Screenshot 5.png)
+
 
 
 Contributing
